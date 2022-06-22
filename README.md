@@ -1,4 +1,4 @@
-# <img src="./jamesmurdza.png" alt="James Murdza" width="500" />
+# <img src="./jamesmurdza.png" alt="James Murdza" width="320" />
 
 ## 👨🏼‍💻 About me
 
@@ -19,5 +19,5 @@
 
 ## 🐙 GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jamesmurdza" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmurdza" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=jamesmurdza" align="left" width="425" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmurdza" align="left" width="255" />
