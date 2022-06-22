@@ -9,7 +9,7 @@
 
 - I am an aerospace engineer ✈️ and a coder at heart ❤️.
 - I am learning Docker, Google Cloud, and Jupiter.
-- My website: [jamesmurdza.com]()
+- My website: [jamesmurdza.com](https://jamesmurdza.com)
 
 ## 📓 Coding guides
 
