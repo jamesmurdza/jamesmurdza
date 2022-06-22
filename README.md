@@ -1,11 +1,15 @@
 # <img src="./jamesmurdza.png" alt="James Murdza" width="320" />
 
+<a href="https://www.linkedin.com/in/jamesmurdza/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" height="25" alt="LinkedIn" align="left" /></a>
+<a href="https://twitter.com/jamesmurdza"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" height="25" alt="Twitter" align="left"  /></a>
+<br />
+
+
 ## 👨🏼‍💻 About me
 
 - I am an aerospace engineer ✈️ and a coder at heart ❤️.
 - I am learning Docker, Google Cloud, and Jupiter.
-- More on my website: [jamesmurdza.com]()
-- My LinkedIn: [James Murdza](https://www.linkedin.com/in/jamesmurdza/)
+- My website: [jamesmurdza.com]()
 
 ## 📓 Guides
 
