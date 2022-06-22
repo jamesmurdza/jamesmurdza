@@ -11,9 +11,9 @@
 - I am learning Docker, Google Cloud, and Jupiter.
 - My website: [jamesmurdza.com]()
 
-## 📓 Guides
+## 📓 Coding guides
 
-### Coding guides:
+### Intro to coding:
 - Turn any webpage into a spreadsheet: [Post](https://gist.github.com/jamesmurdza/dc4835719af03b3754aad51c37a4414c), [Video](http://www.youtube.com/watch?feature=player_embedded&v=FEkNx7TfmJA)
 - Send an email from Google Sheets: [Video](https://youtu.be/tQnnADSqe34)
 
