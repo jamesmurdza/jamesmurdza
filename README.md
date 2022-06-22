@@ -13,7 +13,7 @@
 
 ## 📓 Guides
 
-### Intro to coding:
+### Coding guides:
 - Turn any webpage into a spreadsheet: [Post](https://gist.github.com/jamesmurdza/dc4835719af03b3754aad51c37a4414c), [Video](http://www.youtube.com/watch?feature=player_embedded&v=FEkNx7TfmJA)
 - Send an email from Google Sheets: [Video](https://youtu.be/tQnnADSqe34)
 
@@ -25,17 +25,17 @@
 
 ### macOS:
 - Homebrew package management cheatsheet: [Post](https://gist.github.com/jamesmurdza/6e5f86bae7d3b3db4201a52045a5e477)
-- Become a homebrew master: [Video series](https://www.youtube.com/playlist?list=PLjr9jgZODm4wI9BgYiTFdoC2tDqjiWcg8)
+- Become a Homebrew master: [Video series](https://www.youtube.com/playlist?list=PLjr9jgZODm4wI9BgYiTFdoC2tDqjiWcg8)
 
 ### git:
 - The right way to undo your last git commit: [Video](https://youtu.be/06_0k7ZlOhU)
 - Globally ignore giles in git: [Video](https://youtu.be/tnsSiEpPAcI)
 
 ### Cloud computing:
-- Run docker containers in the cloud for free using Google Cloud Run: [Video](https://youtu.be/ehZGqrBFx5Q)
+- Google Cloud Run demonstration: [Video](https://youtu.be/ehZGqrBFx5Q)
 
 ### Blockchain:
-- Set up Truffle on macOS: [Post](https://gist.github.com/jamesmurdza/e5b5e7c2f211cc264d0f8595e53c5f5d)
+- Truffle on macOS setup: [Post](https://gist.github.com/jamesmurdza/e5b5e7c2f211cc264d0f8595e53c5f5d)
 
 ## 🐙 GitHub stats
 
