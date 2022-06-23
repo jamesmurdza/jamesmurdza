@@ -7,9 +7,11 @@
 
 ## 👨🏼‍💻 About me
 
-- I am an aerospace engineer ✈️ and a coder at heart ❤️.
-- I am learning Docker, Google Cloud, and Jupiter.
-- My website: [jamesmurdza.com](https://jamesmurdza.com)
+I am an aerospace engineer ✈️ and a coder at heart ❤️.
+
+Tech I'm familiar with: C, Objective-C, Typescript, Java, Python, Swift, ReactJS, Node.js, MongoDB, SQL, Haskell, MATLAB, Docker, Shell, AWS, Google Cloud, Selenium
+
+My website: [jamesmurdza.com](https://jamesmurdza.com)
 
 ## 📓 Coding guides
 
