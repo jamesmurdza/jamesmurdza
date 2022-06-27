@@ -9,7 +9,9 @@
 
 I am an aerospace engineer ✈️ and a coder at heart ❤️.
 
-Tech I'm familiar with: C, Objective-C, Typescript, Java, Python, Swift, ReactJS, Node.js, MongoDB, SQL, Haskell, MATLAB, Docker, Shell, AWS, Google Cloud, Selenium
+Languages: C, Objective-C, Typescript, Java, Python, Swift, SQL, Haskell, MATLAB, Shell
+
+Technologies: ReactJS, Node.js, MongoDB, Docker, AWS, Google Cloud, Selenium
 
 Learn more about me on my website: [jamesmurdza.com](https://jamesmurdza.com)
 
