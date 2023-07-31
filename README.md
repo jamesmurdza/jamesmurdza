@@ -55,7 +55,7 @@ Writing: [jamesmurdza.com](https://jamesmurdza.com)
 
 ## 📓 Guides and cheatsheets
 
-- [Docker cheatsheet](https://gist.github.com/jamesmurdza/6e5f86bae7d3b3db4201a52045a5e477)
+- [Docker cheatsheet](https://gist.github.com/jamesmurdza/d7dced2298caa670d6fbaff871200eca)
 - [Homebrew cheatsheet](https://gist.github.com/jamesmurdza/6e5f86bae7d3b3db4201a52045a5e477)
 - [Learn JavaScript by example](https://github.com/jamesmurdza/learn-javascript)
 - [Search engine friendly localization](https://gist.github.com/jamesmurdza/60f35abea0be215655ce5dcd1f6b6acf)
