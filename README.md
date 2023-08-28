@@ -63,8 +63,3 @@ Writing: [jamesmurdza.com](https://jamesmurdza.com)
 - [XKCD house style](https://gist.github.com/jamesmurdza/358ea01f07df3eddeddd7aa64a82e1dd)
 - [Where to start with full-stack](https://gist.github.com/jamesmurdza/25213ecfd479f2c5e9c9a4f92aa3df83)
 - [Minimalist website deployment strategy for 2022](https://gist.github.com/jamesmurdza/2992ca7c300e105185e0d4f404535799)
-
-## 🐙 GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=jamesmurdza" align="left" width="425" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmurdza" align="left" width="255" />
