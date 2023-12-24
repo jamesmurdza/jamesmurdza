@@ -5,7 +5,8 @@
 I am an aerospace engineer ✈️ and a coder at heart ❤️.
 
 Twitter: [@jamesmurdza](https://twitter.com/jamesmurdza)<br />
-Writing: [jamesmurdza.com](https://jamesmurdza.com)
+Writing: [jamesmurdza.com](https://jamesmurdza.com)<br />
+Guides: [dev.to/jamesmurdza](https://dev.to/jamesmurdza)
 
 ## 🥞 My stack
 
@@ -52,14 +53,3 @@ Writing: [jamesmurdza.com](https://jamesmurdza.com)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" alt="IFTTT" style="height:40px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" style="height:40px;" />
 </div>
-
-## 📓 Guides and cheatsheets
-
-- [Awesome AI DevTools](https://github.com/jamesmurdza/awesome-ai-devtools)
-- [Docker cheatsheet](https://gist.github.com/jamesmurdza/d7dced2298caa670d6fbaff871200eca)
-- [Homebrew cheatsheet](https://gist.github.com/jamesmurdza/6e5f86bae7d3b3db4201a52045a5e477)
-- [Learn JavaScript by example](https://github.com/jamesmurdza/learn-javascript)
-- [Search engine friendly localization](https://gist.github.com/jamesmurdza/60f35abea0be215655ce5dcd1f6b6acf)
-- [XKCD house style](https://gist.github.com/jamesmurdza/358ea01f07df3eddeddd7aa64a82e1dd)
-- [Where to start with full-stack](https://gist.github.com/jamesmurdza/25213ecfd479f2c5e9c9a4f92aa3df83)
-- [Minimalist website deployment strategy for 2022](https://gist.github.com/jamesmurdza/2992ca7c300e105185e0d4f404535799)
