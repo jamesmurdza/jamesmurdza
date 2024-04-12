@@ -1,3 +1,5 @@
+![let’s build together](https://github.com/jamesmurdza/jamesmurdza/assets/33395784/547eaa7c-f4c1-4d04-8ed6-04cd2295b337)
+
 <span align=center>
   <h1 align="center">
   </h1>
