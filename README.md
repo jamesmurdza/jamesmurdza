@@ -1,26 +1,18 @@
 <span align=center>
   <h1 align="center">
-  <img src="./jamesmurdza.png" alt="James Murdza" width="220" />
+  <img src="./jamesmurdza.png" alt="James Murdza" width="180" />
   </h1>
 
-*Building every day with friends and strangers on the internet...*<br />
-  Want to start learning?<br />
+*Building every day with friends and strangers on the internet...*<br /><br />
+  **Want to start learning?**<br />
     <a href="https://github.com/jamesmurdza/building-resources/">Start here!</a>
 </span>
 
 <div style="display: flex; flex-direction: row;">
-    <a href="https://youtube.com/@jamesmurdza" style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="24"/>
-    </a>
-    <a href="https://twitter.com/jamesmurdza" style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" width="24"/>
-    </a>
-    <a href="https://jamesmurdza.com" style="margin-right: 20px;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="24"/>
-    </a>
-    <a href="https://dev.to/jamesmurdza">
-        <img src="https://img.icons8.com/material/48/000000/dev.png" width="24"/>
-    </a>
+    <a href="https://youtube.com/@jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="48"/></a>
+    <a href="https://twitter.com/jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/twitter--v2.png" width="48"/></a>
+    <a href="https://jamesmurdza.com" style="margin-right: 20px;"><img src="https://img.icons8.com/ios-filled/96/000000/domain.png" width="48"/></a>
+    <a href="https://dev.to/jamesmurdza"><img src="https://cdn.iconscout.com/icon/free/png-256/free-dev-dot-to-3626951-3029359.png" width="48"/></a>
 </div>
 
 #### 🔮 Gems I've collected:
