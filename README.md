@@ -13,6 +13,8 @@
 
 <a href="https://github.com/jamesmurdza/building-resources/" style="margin-right: 20px;">What I've learned recently while building apps</a>
 
+<a href="https://github.com/jamesmurdza/awesome-templates/" style="margin-right: 20px;">Free, public templates</a>
+
 <a href="https://www.youtube.com/@jamesmurdza/streams" style="margin-right: 20px;">Upcoming streams</a>
 
 <a href="https://jamesmurdza.com" style="margin-right: 20px;">My website</a>
