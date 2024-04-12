@@ -2,17 +2,19 @@
   <h1 align="center">
   </h1>
 
-🙂 *Building every day with friends and strangers on the internet...*<br /><br />
-  **Want to start learning?**<br />
-</span>
-
-<a href="https://github.com/jamesmurdza/building-resources/"><img src="https://github.com/jamesmurdza/jamesmurdza/assets/33395784/86c3d1c8-ba1c-4bd8-81e0-35c90e7791ed" width="200" />
-</a>
-
+*🗿 Building every day with friends and strangers on the internet. 🗿*
 <div style="display: flex; flex-direction: row;">
     <a href="https://youtube.com/@jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="64"/></a>
     <a href="https://twitter.com/jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/twitter--v2.png" width="64"/></a>
 </div>
+
+<br />
+
+  **Want to start learning?**
+</span>
+
+<a href="https://github.com/jamesmurdza/building-resources/"><img src="https://github.com/jamesmurdza/jamesmurdza/assets/33395784/86c3d1c8-ba1c-4bd8-81e0-35c90e7791ed" width="200" />
+</a>
 
 <a href="https://jamesmurdza.com" style="margin-right: 20px;">jamesmurdza.com</a>
 
