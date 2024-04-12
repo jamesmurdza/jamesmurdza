@@ -1,13 +1,27 @@
-<img src="./jamesmurdza.png" alt="James Murdza" width="220" />
+<span align=center>
+  <h1 align="center">
+  <img src="./jamesmurdza.png" alt="James Murdza" width="220" />
+  </h1>
 
-*Building every day with friends and strangers on the internet...*
+*Building every day with friends and strangers on the internet...*<br />
+  Want to start learning?<br />
+    <a href="https://github.com/jamesmurdza/building-resources/">Start here!</a>
+</span>
 
-## Want to start learning? [Start here!](https://github.com/jamesmurdza/building-resources/)
-
-YouTube: [@jamesmurdza](https://youtube.com/@jamesmurdza)<br />
-Twitter: [@jamesmurdza](https://twitter.com/jamesmurdza)<br />
-Writing: [jamesmurdza.com](https://jamesmurdza.com)<br />
-Guides: [dev.to/jamesmurdza](https://dev.to/jamesmurdza)
+<div style="display: flex; flex-direction: row;">
+    <a href="https://youtube.com/@jamesmurdza" style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="24"/>
+    </a>
+    <a href="https://twitter.com/jamesmurdza" style="margin-right: 20px;">
+        <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" width="24"/>
+    </a>
+    <a href="https://jamesmurdza.com" style="margin-right: 20px;">
+        <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="24"/>
+    </a>
+    <a href="https://dev.to/jamesmurdza">
+        <img src="https://img.icons8.com/material/48/000000/dev.png" width="24"/>
+    </a>
+</div>
 
 #### 🔮 Gems I've collected:
 
