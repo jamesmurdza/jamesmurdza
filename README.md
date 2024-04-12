@@ -4,6 +4,8 @@
   <h1 align="center">
   </h1>
 
+**I teach software development on YouTube.**
+
 💫 *Building every day with friends and strangers on the internet.* 💫
 </span>
 
@@ -16,8 +18,8 @@
 #### My links:
 
 <div style="display: flex; flex-direction: row;">
-    <a href="https://youtube.com/@jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="64"/></a>
-    <a href="https://twitter.com/jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/twitter--v2.png" width="64"/></a>
+    <a href="https://youtube.com/@jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="48"/></a>
+    <a href="https://twitter.com/jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/twitter--v2.png" width="48"/></a>
 </div>
 
 #### Gems I've collected:
