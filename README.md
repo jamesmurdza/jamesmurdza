@@ -4,20 +4,43 @@
   <h1 align="center">
   </h1>
 
-**I teach software development on YouTube.**
+**I'm an AI developer tools engineer based in San Francisco**
 
 </span>
 
-I'm an AI engineer based in San Francisco! More about me on: <a href="https://jamesmurdza.com" style="margin-right: 20px;">My website</a>
+I’m an engineer focused on systems for:
 
-#### My tools:
+* 🤖 AI-assisted software development
+* ☁️ cloud execution environments
+* 🔍 automated evaluation of code-generation models.
 
-<div style="display: flex; flex-direction: row;">
-    <a href="https://youtube.com/@jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="48"/></a>
-    <a href="https://twitter.com/jamesmurdza" style="margin-right: 20px;"><img src="https://img.icons8.com/color/96/000000/twitter--v2.png" width="48"/></a>
+I’ve contributed to:
+
+* [e2b-dev/e2b-cookbook](https://github.com/jamesmurdza/e2b-cookbook), [e2b-dev/E2B](https://github.com/jamesmurdza/E2B), [e2b-dev/desktop](https://github.com/jamesmurdza/desktop) E2B sandboxes for AI agents and AI computer-use
+* [daytonaio/daytona](https://github.com/jamesmurdza/daytona) Daytona sandboxes for AI agents
+* [trycua/cua](https://github.com/jamesmurdza/cua) Frameworks for AI computer use
+* [meta-llama/llama-cookbook](https://github.com/jamesmurdza/llama-cookbook), [crewAIInc/crewAI-tools](https://github.com/jamesmurdza/crewAI-tools) AI agent sandbox integrations
+
+My open source repositories:
+
+* [gitwit](https://github.com/jamesmurdza/gitwit) Cloud code-editing environment with an AI copilot and real-time collaboration.
+* [awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) Curated list of AI-powered tools for software engineering.
+* [sandboxjs](https://github.com/jamesmurdza/sandboxjs) Unified interface for Linux-based cloud sandbox providers.
+* [desktop-sandbox](https://github.com/jamesmurdza/desktop-sandbox) Multi-sandbox computer-use SDK.
+* [gitwit-agent](https://github.com/jamesmurdza/gitwit-agent) System for generating repositories and commits through AI-driven automation.
+* [humaneval-results](https://github.com/jamesmurdza/humaneval-results) Evaluation results for code-generation LLMs.
+* [agenteval](https://github.com/jamesmurdza/agenteval) Automated testing and benchmarking framework for code-generation agents.
+
+#### My links:
+
+<div style="display:flex;gap:20px;align-items:center;">
+    <a href="https://jamesmurdza.com"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="32"/></a>
+    <a href="https://www.linkedin.com/in/jamesmurdza/"><img src="https://img.icons8.com/color/96/linkedin.png" width="32"/></a>
+    <a href="https://youtube.com/@jamesmurdza"><img src="https://img.icons8.com/color/96/youtube-play.png" width="32"/></a>
+    <a href="https://twitter.com/jamesmurdza"><img src="https://img.icons8.com/color/96/twitter--v2.png" width="32"/></a>
 </div>
 
-#### Gems I've collected:
+#### My technologies:
 
 <div style="display: flex;">
   <!-- Programming Languages -->
