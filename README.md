@@ -16,10 +16,10 @@ I’m an engineer focused on systems for:
 
 I’ve contributed to:
 
-* [e2b-dev/e2b-cookbook](https://github.com/jamesmurdza/e2b-cookbook), [e2b-dev/E2B](https://github.com/jamesmurdza/E2B), [e2b-dev/desktop](https://github.com/jamesmurdza/desktop) E2B sandboxes for AI agents and AI computer-use
-* [daytonaio/daytona](https://github.com/jamesmurdza/daytona) Daytona sandboxes for AI agents
-* [trycua/cua](https://github.com/jamesmurdza/cua) Frameworks for AI computer use
-* [meta-llama/llama-cookbook](https://github.com/jamesmurdza/llama-cookbook), [crewAIInc/crewAI-tools](https://github.com/jamesmurdza/crewAI-tools) AI agent sandbox integrations
+* [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook), [e2b-dev/E2B](https://github.com/jamesmurdza/E2B), [e2b-dev/desktop](https://github.com/e2b-dev/desktop) E2B sandboxes for AI agents and AI computer-use
+* [daytonaio/daytona](https://github.com/daytonaio/daytona) Daytona sandboxes for AI agents
+* [trycua/cua](https://github.com/trycua/cua) Frameworks for AI computer use
+* [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook), [crewAIInc/crewAI-tools](https://github.com/crewAIInc/crewAI-tools) AI agent sandbox integrations
 
 My open source repositories:
 
