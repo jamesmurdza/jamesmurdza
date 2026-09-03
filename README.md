@@ -1,6 +1,8 @@
 <span align=center>
 
-**Hello! I'm an AI developer tools engineer based in San Francisco and the Netherlands.**
+**👋 Hi, I'm James!**
+<br />
+**I'm an AI developer tools engineer based in San Francisco and the Netherlands.**
 
   <h1 align="center">
   </h1>
