@@ -1,11 +1,12 @@
-![let’s build together](https://github.com/jamesmurdza/jamesmurdza/assets/33395784/547eaa7c-f4c1-4d04-8ed6-04cd2295b337)
-
 <span align=center>
+
+**Hello! I'm an AI developer tools engineer based in San Francisco and the Netherlands.**
+
   <h1 align="center">
   </h1>
 
-**I'm an AI developer tools engineer based in San Francisco**
-
+<img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 06_10_22 PM" src="https://github.com/user-attachments/assets/a0272e96-8bef-4100-9f46-cceccc0cc8e4" />
+  
 </span>
 
 I’m an engineer focused on systems for:
